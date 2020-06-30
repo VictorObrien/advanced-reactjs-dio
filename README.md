@@ -13,3 +13,4 @@ Ministrado pelo professor [Bruno Carneiro](https://github.com/Tautorn)
 
 ## Aula 02
 - [Fragments](./fragments)
+- [Error Boundaries](./error-boundaries)
