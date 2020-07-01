@@ -21,3 +21,4 @@ Ministrado pelo professor [Bruno Carneiro](https://github.com/Tautorn)
 
 ## Aula 03
 - [Dumb Components](./dumb-components)
+- [Smart Components](./smart-components)
