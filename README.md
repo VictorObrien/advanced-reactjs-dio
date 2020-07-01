@@ -17,3 +17,7 @@ Ministrado pelo professor [Bruno Carneiro](https://github.com/Tautorn)
 - [Render Props](./render-props)
 - [Type Checking](./type-checking)
 - [Refs e DOM](./refs-dom)
+
+
+## Aula 03
+- [Dumb Components](./dumb-components)
